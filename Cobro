@@ -1,1 +1,12 @@
-
+/mi-proyecto
+   /backend
+      /app
+         __init__.py
+         main.py
+      /models
+         __init__.py
+         product.py
+      /database
+         __init__.py
+         db.py
+   README.md
